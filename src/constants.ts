@@ -1,0 +1,9 @@
+export const GRID_COLS = 6;
+export const GRID_ROWS_MAX = 10;
+export const INITIAL_ROWS = 4;
+export const MIN_VALUE = 1;
+export const MAX_VALUE = 9;
+export const TARGET_SUM_MIN = 10;
+export const TARGET_SUM_MAX = 20;
+export const TIME_LIMIT = 15; // seconds for time mode
+export const NEW_ROW_INTERVAL = 10000; // ms for auto-adding rows in some modes if we want
